@@ -4,7 +4,6 @@
 #object that stores a numerical matrix and caches its inverse.
 ###############################################################################
 
-
 #The first function, makeCacheMatrix creates a special "maxtrix", which is 
 #really a list containing a function to
 # set the value of the matrix
